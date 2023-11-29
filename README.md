@@ -1,6 +1,3 @@
-### Execution
-python3 game.py<br>
-
 ### Commands
 The king (or queen) is controlled using the keys w, a, s, and d.<br>
 To attack with the king go close to a building and press the k button.<br>
@@ -17,3 +14,6 @@ When the wizard tower is attacking a troop, its background colour turns red<br>
 The health of all the troops is displayed below<br>
 Press r to activate the rage spell, h for the heal spell<br>
 The game ends when all buildings or all troops are destroyed, displaying the winner<br>
+
+### Execution
+python3 game.py<br>
